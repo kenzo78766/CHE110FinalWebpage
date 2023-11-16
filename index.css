@@ -472,7 +472,7 @@ button {
   margin-bottom: 0.5rem;
 }
 
-@media screen and (min-width: 540px) {
+@media screen and (min-width: 500px) {
   .ferncontext {
     width: 79%;
   }
