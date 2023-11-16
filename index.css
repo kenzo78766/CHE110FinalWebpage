@@ -499,7 +499,7 @@ button {
   /* about about about about about*/
 }
 
-@media screen and (min-width: 1000px) {
+@media screen and (min-width: 5000px) {
   .container {
     width: 100vw;
     height: 100vh;
@@ -698,7 +698,7 @@ button {
 
 /* about media about media about media about media about media about media about media */
 
-@media screen and (min-width: 700px) {
+@media screen and (min-width: 500px) {
   .about__container {
     margin-left: 10%;
     margin-right: 10%;
